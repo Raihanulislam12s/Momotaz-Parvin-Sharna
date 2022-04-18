@@ -8,8 +8,8 @@ var config = {
         "This I actually made",
         "as a birthday gift to you 😆",
         "I just want to say",
-        "thanks for my life change"
-        "Love you"
+        "thanks for my life change",
+        "Love you",
 
     ],
 
