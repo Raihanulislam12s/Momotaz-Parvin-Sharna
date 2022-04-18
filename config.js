@@ -10,6 +10,7 @@ var config = {
         "I just want to say",
         "thanks for my life change",
         "Love you",
+        
 
     ],
 
